@@ -1,5 +1,5 @@
 
 # COVID-19
 
-A new Flutter application.
+COVID-19 Tracker Flutter application.
 
